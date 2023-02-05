@@ -1,4 +1,7 @@
-# weatherapp
+# weatherapp project is made on 
+```
+https://openweathermap.org/
+```
 
 ## Project setup
 ```
